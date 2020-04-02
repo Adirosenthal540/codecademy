@@ -40,4 +40,3 @@ plt.ylabel("Predicted win: $\hat{Y}_i$")
 # plt.title("Actual Rent vs Predicted Rent")
 
 plt.show()
-#coment 1
